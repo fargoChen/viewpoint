@@ -3,7 +3,7 @@
 
 ### 从人口说起
 
-<img src="p100.jpg" width="300" hegiht="160" align=center />
+<img src="p100.jpg" width="500" hegiht="300" align=center />
 <!-- ![pic1](p100.jpg =200x160) -->
 
 
