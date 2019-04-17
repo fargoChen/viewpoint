@@ -3,7 +3,6 @@
 
 ### 从人口说起
 
-<div width=30% height=30% align=center/>
 ![pic1](p100.jpg)
 
 
