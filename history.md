@@ -3,7 +3,7 @@
 
 ### 从人口说起
 
-![pic1](p100.jpg)
+![pic1](p100.jpg =200x160)
 
 
 [zz]: http://rdcy-sf.ruc.edu.cn/Index/news_cont/id/51020.html "原文"
